@@ -4,7 +4,7 @@
 
 The “Bus registration and Reservation Application” has been developed to override the problems prevailing in the present manual system.
 This software is supported to eliminate and in some cases reduce the hardships faced by this existing system.
-The application is reduced as much as possible to avoid errors while entering the data. Thus it will help to maintain computerized records without redundant entries and will help them in better utilization of resources.
+The application is reduced as much as possible to avoid errors while entering the data.Thus it will help to maintain computerized records without redundant entries and will help them in better utilization of resources.
 No formal knowledge is needed for user to use this system. Thus by this it proves it is user-friendly application.
 
 #Functionality
