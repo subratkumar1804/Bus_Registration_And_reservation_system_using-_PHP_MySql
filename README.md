@@ -1,4 +1,4 @@
-# Bus_Registration_And_reservation_system_using-_PHP_MyS
+# Bus_Registration_And_reservation_system_using-_PHP_MySq
 
 #Project Description:
 
