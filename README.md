@@ -1,6 +1,6 @@
 # Bus_Registration_And_reservation_system_using-_PHP_MySql
 
-#Project Description:
+#Project Descriptio:
 
 The “Bus registration and Reservation Application” has been developed to override the problems prevailing in the present manual system.
 This software is supported to eliminate and in some cases reduce the hardships faced by this existing system.
