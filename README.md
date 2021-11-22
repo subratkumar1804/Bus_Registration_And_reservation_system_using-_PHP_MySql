@@ -38,8 +38,7 @@ Made better user interfaces and fixed some serious security related issues by ma
 Finally the Bus Registration And Reservation System is Implemented and Tested according to test case.
 
 
-#Thank You
-
+#Thank You!
 
 
 
